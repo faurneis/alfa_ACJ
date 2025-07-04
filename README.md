@@ -39,7 +39,7 @@ ZIP архивы → Извлечение → Очистка данных → А
     "conv": "analytics.travel_conversion"
   }
 }
-
+```
 Настройки подключения
 
 - **ClickHouse Host**: `localhost`
@@ -155,5 +155,5 @@ ORDER BY visitors;
 - Python 3.8+
 - Apache Airflow 2.0+
 - ClickHouse client
-- Зависимости: `clickhouse-driver`
+
 
